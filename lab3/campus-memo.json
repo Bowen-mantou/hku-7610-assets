@@ -1,0 +1,12 @@
+{
+  "name": "HKU Drone Club · Campus-Memo",
+  "description": "Limited-edition commemorative NFT issued by the HKU Drone Club (COMP7610 Smart Contract Lab, Sepolia testnet). Maximum supply: 10. Each Campus-Memo costs 100 CPT (Club Points Token) to mint and records a club member's on-chain memory.",
+  "image": "https://raw.githubusercontent.com/Bowen-mantou/hku-7610-assets/main/lab3/campus-memo.png",
+  "attributes": [
+    { "trait_type": "Club", "value": "HKU Drone Club" },
+    { "trait_type": "Edition", "value": "1 of 10" },
+    { "trait_type": "Mint Price", "value": "100 CPT" },
+    { "trait_type": "Network", "value": "Sepolia Testnet" },
+    { "trait_type": "Year", "value": "2026" }
+  ]
+}
